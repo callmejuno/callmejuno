@@ -27,4 +27,8 @@
 # Last Thanks
 <div align="center">
 	<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Look%20at%20Me&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=AI%20bot%20Juno&descAlignY=70">
+<<<<<<< HEAD
 </div>
+=======
+</div>
+>>>>>>> 2587fb3b09e0e867f1d25b5b3795b5f6bbb32918
