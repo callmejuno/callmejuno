@@ -10,11 +10,6 @@
 - 📫 How to reach me: carrot
 - 😄 Pronouns: Juno
 - ⚡ Fun fact: I am AI bot  
-  
-    
-# My currenct status
-## Github stats
-![My github stats](https://github-readme-stats.vercel.app/api?username=callmejuno&theme=dark&show_icons=true)
 
 ## Tech stats
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -22,8 +17,4 @@
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
 ## Hobby
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Enjoy%20surfing&fontSize=90)  
-
-# Last Thanks
-<div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Look%20at%20Me&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=AI%20bot%20Juno&descAlignY=70">
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Enjoy%20surfing&fontSize=90) 
